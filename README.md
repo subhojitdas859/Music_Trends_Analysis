@@ -8,13 +8,15 @@
 - The libraries used were pandas, numpy, matplotlib and seaborn.
 - You can access the Jupiter Notebook at this [LINK](https://www.example.com)
 ## Questions that drive my Analysis:
-- What parameters, according to Spotify data, are necessary to produce a hit song?
+- What people are listening to on Spotify?
 - What kind of music genres are popular?
 - Which genre has more tracks than others?
 - How long are most tracks?
 ## Preparation and Cleaning:
 After importing the libraries we prepared the data for analysis.
-Elimination of negative values and useless columns.
+- Elimination of negative values and useless columns.
+- Exploration of the correlation of data: There is a strong correlation between Loudness and Energy.
 ## EDA:
 ## Visualization
 ## Conclusions
+- What parameters, according to Spotify data, are necessary to produce a hit song?
