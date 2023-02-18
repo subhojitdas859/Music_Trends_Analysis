@@ -1,4 +1,5 @@
 # Music Trends Analysis *(Python, Jupyter Notebook)*
+To develop critical thinking and problem-solving skills by analyzing and interpreting large datasets to identify trends and insights, and then presenting them in an understandable way.
 ## Skills applied
 *Python libraries, Exploratory Data analysis, Data cleaning, Data visualization, Documentation*
 ## Project Overview
