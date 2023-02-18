@@ -37,7 +37,7 @@ Strong correlation between popularity and loudness is clearly seen in this scatt
 Popularity and danceability are closer to the normal distribution than others. Acousticity is clearly bimodal, liveness is skewed to the left, and loudness is skewed to the right. Because duration-ms is mostly between 0.0 and 1.0, I'll make a separate plot for this.
 - **How long are most tracks?**
 
-![alt text](https://github.com/subhojitdas859/Music_Trends_Analysis/blob/main/img/6.png)
+![alt text](img/6.png)
 
 I removed outliers and only displayed those that were less than 10 minutes long. The average track lasts about 4 minutes, with most tracks lasting between 2 and 6 minutes. This may change significantly if there are more classic or other old tracks in this dataset.
 ## Conclusion
