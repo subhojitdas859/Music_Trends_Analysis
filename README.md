@@ -6,7 +6,7 @@
 - Identifying patterns and relationships between attributes.
 - Evaluating the quality of the data.
 - The libraries used were **pandas, numpy, matplotlib and seaborn**.
-- You can access the Jupiter Notebook at this [LINK](https://www.example.com)
+- You can access the Jupiter Notebook at this [LINK](https://github.com/subhojitdas859/Music_Trends_Analysis/tree/main/files)
 ### Questions that drive my Analysis:
 - What people are listening to on Spotify?
 - What kind of music genres are popular?
@@ -41,6 +41,4 @@ Popularity and danceability are closer to the normal distribution than others. A
 
 I removed outliers and only displayed those that were less than 10 minutes long. The average track lasts about 4 minutes, with most tracks lasting between 2 and 6 minutes. This may change significantly if there are more classic or other old tracks in this dataset.
 ## Conclusion
-- The data shows that most people on Spotify prefer to listen to music that is **loud, energetic, and good for dancing.** 
-- This is true no matter how many songs there are in each genre. Of course, other datasets might show something different. But since Spotify is one of the most popular music services, this could be a sign of what people will keep liking in the future, which can help us to **produce a hit song** and create more tailored and effective music marketing strategies. Unless something new and really popular comes up!
-- You can access the code in this [LINK](https://www.example.com)
+- The data shows that most people on Spotify prefer to listen to music that is **loud, energetic, and good for dancing.** This is true no matter how many songs there are in each genre. Of course, other datasets might show something different. But since Spotify is one of the most popular music services, this could be a sign of what people will keep liking in the future, which can help us to **produce a hit song** and create more tailored and effective music marketing strategies. Unless something new and really popular comes up!
