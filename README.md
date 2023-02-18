@@ -7,11 +7,13 @@
 - To develop critical thinking and problem-solving skills by analyzing and interpreting large datasets to identify trends and insights, and then presenting them in an understandable way.
 - The libraries used were **pandas, numpy, matplotlib and seaborn**.
 - You can access the Jupiter Notebook at this [LINK](https://github.com/subhojitdas859/Music_Trends_Analysis/tree/main/files)
+
 ## Questions that drive my Analysis:
 - What people are listening to on Spotify?
 - What kind of music genres are popular?
 - Which genre has more tracks than others?
 - How long are most tracks?
+
 ## Preparation and Cleaning:
 - After importing the libraries we prepared the data for analysis.
 - Elimination of negative values and useless columns.
