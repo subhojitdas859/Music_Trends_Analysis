@@ -2,10 +2,9 @@
 ## Skills applied
 *Python libraries, Exploratory Data analysis, Data cleaning, Data visualization, Documentation*
 ## Project Overview
-- To develop critical thinking and problem-solving skills by analyzing and interpreting large datasets to identify trends and insights, and then presenting them in an understandable way.
 - Understanding the distribution of musical attributes: EDA can help to understand the distribution of various musical attributes such as tempo, loudness, and energy in the dataset.
 - Identifying patterns and relationships between attributes.
-- Evaluating the quality of the data.
+- To develop critical thinking and problem-solving skills by analyzing and interpreting large datasets to identify trends and insights, and then presenting them in an understandable way.
 - The libraries used were **pandas, numpy, matplotlib and seaborn**.
 - You can access the Jupiter Notebook at this [LINK](https://github.com/subhojitdas859/Music_Trends_Analysis/tree/main/files)
 ## Questions that drive my Analysis:
