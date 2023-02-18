@@ -2,17 +2,17 @@
 ## Skills applied
 *Python libraries, Exploratory Data analysis, Data cleaning, Data visualization, Documentation*
 ## Project Overview
-- Understanding the distribution of musical attributes: EDA can help to understand the distribution of various musical attributes such as tempo, loudness, and energy in the dataset. By visualizing these distributions, we can gain insights into the characteristics of the music in the dataset and identify any outliers or anomalies.
+- Understanding the distribution of musical attributes: EDA can help to understand the distribution of various musical attributes such as tempo, loudness, and energy in the dataset.
 - Identifying patterns and relationships between attributes.
 - Evaluating the quality of the data.
 - The libraries used were **pandas, numpy, matplotlib and seaborn**.
 - You can access the Jupiter Notebook at this [LINK](https://github.com/subhojitdas859/Music_Trends_Analysis/tree/main/files)
-### Questions that drive my Analysis:
+## Questions that drive my Analysis:
 - What people are listening to on Spotify?
 - What kind of music genres are popular?
 - Which genre has more tracks than others?
 - How long are most tracks?
-### Preparation and Cleaning:
+## Preparation and Cleaning:
 - After importing the libraries we prepared the data for analysis.
 - Elimination of negative values and useless columns.
 - Exploration of the correlation of data.
